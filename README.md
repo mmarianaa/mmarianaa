@@ -1,12 +1,14 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mmarianaa)
-
-I'm Mariana 👩‍💻
+My name is Mariana, I'm a physics student and I really enjoy programming. 👩‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-mmarianaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmarianaa/)](https://www.linkedin.com/in/mmarianaa/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=http://www.behance.net/mmarianaa/)](http://www.behance.net/mmarianaa/)
 
+<!--
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=http://www.behance.net/mmarianaa/)](http://www.behance.net/mmarianaa/)
+-->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mmarianaa)
 
 ## GitHub Stats and Most Used Languages
 
