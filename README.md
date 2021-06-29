@@ -1,11 +1,19 @@
-## Hi 👋 I'm Mariana 👩‍💻
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mmarianaa)
+
+I'm Mariana 👩‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-mmarianaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmarianaa/)](https://www.linkedin.com/in/mmarianaa/)
-<!--
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=http://www.behance.net/mmarianaa/)](http://www.behance.net/mmarianaa/)
--->
 
-## ⚡ Languagues and Tools :computer:
+
+## GitHub Stats and Most Used Languages
+
+![Mariana's Github stats](https://github-readme-stats.vercel.app/api?username=mmarianaa&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarianaa&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
+
+## ⚡ Tech Skills :computer:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -18,13 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white)
-
-![Mariana's Github Stats](https://github-readme-stats.vercel.app/api?username=mmarianaa&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarianaa&hide=TeX&layout=compact&theme=dark)
-
-<!--
-![Mariana's Github Stats](https://github-readme-stats.vercel.app/api?username=mmarianaa&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
--->
 
 
 
