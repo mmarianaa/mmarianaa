@@ -6,9 +6,9 @@ My name is Mariana, I'm a physics student and I really enjoy programming. ðŸ‘©â€
 
 <!--
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=http://www.behance.net/mmarianaa/)](http://www.behance.net/mmarianaa/)
--->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mmarianaa)
+-->
 
 ## GitHub Stats and Most Used Languages
 
