@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Mariana Alves!
+# 👋 Olá, sou a Mariana!
 
 Bacharel em Física pela Universidade Federal do Ceará (UFC) e atuo como **RTA (Real-Time Analyst)**. Tenho paixão por resolução de problemas complexos, análise de dados e modelagem quantitativa.
 
