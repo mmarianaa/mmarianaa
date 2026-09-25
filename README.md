@@ -11,9 +11,10 @@ Bacharel em Física pela Universidade Federal do Ceará (UFC) e atuo como **RTA 
 
 ---
 
-📫 **Contate-me**: 
-[![Linkedin Badge](https://img.shields.io/badge/-mmarianaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmarianaa/)](https://www.linkedin.com/in/mmarianaa/)
-[![Gmail Badges](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmarianaasa1@gmail.com)
+### 📫 Contate-me
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mmarianaasa1@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
 
 
 
