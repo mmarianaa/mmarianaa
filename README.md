@@ -11,7 +11,9 @@ Bacharel em Física pela Universidade Federal do Ceará (UFC) e atuo como **RTA 
 
 ---
 
-📫 **Contate-me**: [E-mail](mailto:mmarianaasa1@gmail.com)
+📫 **Contate-me**: 
+
+[![Gmail Badges](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmarianaasa1@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-mmarianaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmarianaa/)](https://www.linkedin.com/in/mmarianaa/)
 
