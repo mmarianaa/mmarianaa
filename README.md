@@ -4,13 +4,6 @@ Bacharel em Física pela Universidade Federal do Ceará (UFC) e atuo como **RTA 
 
 ---
 
-### 🔬 Sobre mim
-
-- 🎓 **Formação**: Bacharelado em Física (UFC)
-- 💼 **Atuação**: Workforce Management (Real-Time Analysis, monitoramento operacional e otimização de métricas)
-
----
-
 ### 📫 Contate-me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mmarianaasa1@gmail.com)
